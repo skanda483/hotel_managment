@@ -1,0 +1,2 @@
+clear_bill.php accessed
+Received order_id: 45
